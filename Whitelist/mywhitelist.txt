@@ -54,7 +54,6 @@ youtube.com
 i.ytimg.com
 
 # Microsoft
-gstaticadssl.l.google.com
 outlook.office365.com
 products.office.com
 c.s-microsoft.com
