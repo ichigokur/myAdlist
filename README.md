@@ -3,4 +3,4 @@
 # myAdlist
 experiment on ad blocking lists
 
-> these filters are used in my home pi-hole setup feel free to use or update this filterlist 
+> these filters are used in my home pi-hole setup, feel free to use or update this filterlist 
