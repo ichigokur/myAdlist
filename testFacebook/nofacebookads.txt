@@ -6,6 +6,18 @@
 ! Expires: 30 days
 ! Hosting: GitHub.com
 !
+# ------------------------------------[Facebook]--------------------------------------
+# Title: The Block List Project - NoFacebookAds
+# Expires: ND
+# Homepage: https://github.com/ichigokur/myAdlist/crunchyroll
+# # Total number of network filters: 64
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+#  - reporting false positives
+# -------------------------------------[INFO]---------------------------------------
+#
+# Facebook list
+# ------------------------------------[FILTERS]-------------------------------------
 @@||www.facebook.com/ads/$elemhide
 @@||www.facebook.com/ajax/ads/$xmlhttprequest,domain=www.facebook.com
 ###pagelet_side_ads
