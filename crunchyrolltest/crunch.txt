@@ -17,4 +17,31 @@
 0.0.0.0 i.cdn.turner.com
 0.0.0.0 panini.it
 
+-------------------------------------[other filters]---------------------------------
+
+0.0.0.0 annunci.repubblica.it	
+0.0.0.0 annunci.palermo.repubblica.it	
+0.0.0.0 amp-palermotoday-it.cdn.ampproject.org	
+0.0.0.0 omes-sec.heytapmobile.com	
+0.0.0.0 webcomponent.gedidigital.it	
+0.0.0.0 shop.moda.it	
+0.0.0.0 img.cools.com	
+0.0.0.0 connect.facebook.net	
+0.0.0.0 www.iubenda.com	
+0.0.0.0 eulogin.repubblica.it	
+0.0.0.0 scripts.gedidigital.it	
+0.0.0.0 scripts.kataweb.it	
+0.0.0.0 box.kataweb.it	
+0.0.0.0 login.kataweb.it	
+0.0.0.0 cdn.iubenda.com	
+0.0.0.0 coopluceegas.commander1.com	
+0.0.0.0 ib.beintoo.com	
+0.0.0.0 imrworldwide.com	
+0.0.0.0 analytics
+0.0.0.0 3vwddeqssp0zggcnbrylykuphdbvn1632661344.nuid.imrworldwide.com	
+0.0.0.0 em-h.phncdn.com	
+0.0.0.0 ci.phncdn.com	
+0.0.0.0 api.houston.advgo.net	
+0.0.0.0 media.gedidigital.it
+
 ||static.crunchyroll.com/vilos-v2/web/vilos/player.html
