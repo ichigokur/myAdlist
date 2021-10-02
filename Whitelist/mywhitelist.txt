@@ -13,6 +13,7 @@ www.googleapis.com
 googleusercontent.com
 
 # Google Fonts
+gstaticadssl.l.google.com
 fonts.gstatic.com
 fonts.google.com
 
