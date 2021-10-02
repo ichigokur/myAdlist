@@ -15,12 +15,13 @@
 ssl.google-analytics.com
 www.google-analytics.com
 i.cdn.turner.com
-panini.it
+www.panini.it
 
 annunci.repubblica.it	
 annunci.palermo.repubblica.it	
 amp-palermotoday-it.cdn.ampproject.org	
-omes-sec.heytapmobile.com	webcomponent.gedidigital.it	
+omes-sec.heytapmobile.com
+webcomponent.gedidigital.it	
 shop.moda.it	
 img.cools.com	
 connect.facebook.net	
