@@ -2,7 +2,7 @@
 ! Version: 20211002
 ! Title: Files: NoFacebookAds
 ! NFA: rimuovi la spazzatura da Facebook!
-! Last modified: 18-06-2021
+! Last modified: 02-10-2021
 ! Expires: 30 days
 ! Hosting: GitHub.com
 !
