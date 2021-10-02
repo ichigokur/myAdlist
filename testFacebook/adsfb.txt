@@ -1,5 +1,5 @@
 []
-! Version: 20210802
+! Version: 20211002
 ! Title: Files: NoFacebookAds
 ! NFA: rimuovi la spazzatura da Facebook!
 ! Last modified: 18-06-2021
