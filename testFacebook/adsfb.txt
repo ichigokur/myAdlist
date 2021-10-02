@@ -1,5 +1,5 @@
-[Adblock Plus 2.8]
-! Version: 202106181125
+[]
+! Version: 20210802
 ! Title: Files: NoFacebookAds
 ! NFA: rimuovi la spazzatura da Facebook!
 ! Last modified: 18-06-2021
