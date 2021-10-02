@@ -4,3 +4,8 @@
 experiment on ad blocking lists
 
 > these filters are used in my home pi-hole setup, feel free to use or update this filterlist 
+
+##
+If somebody wants to share guide for writing blocklist for pi-hole i will appreciate
+
+(づ｡◕‿‿◕)づ
