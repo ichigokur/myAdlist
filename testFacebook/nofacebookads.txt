@@ -73,12 +73,5 @@ facebook.com##div[id^="substream_"] ._5jmm[data-dedupekey][data-cursor][data-ftr
 facebook.com##div[id^="substream_"] div[data-ft*="\"ei\":\""]
 facebook.com##div[id^="topnews_main_stream_"] div[data-ft*="\"ei\":\""]
 facebook.com##ul[id^="typeahead_list_"] > ._20e._6_k._55y_
-m.facebook.com,touch.facebook.com##.aymlCoverFlow
-m.facebook.com,touch.facebook.com##.aymlNewCoverFlow[data-ft*="\"is_sponsored\":\"1\""]
-m.facebook.com,touch.facebook.com##.pyml
-m.facebook.com,touch.facebook.com##.storyStream > ._6t2[data-sigil="marea"]
-m.facebook.com,touch.facebook.com##.storyStream > .fullwidth._539p
-m.facebook.com,touch.facebook.com##.storyStream > article[id^="u_"]._676
-m.facebook.com,touch.facebook.com##.storyStream > article[id^="u_"].storyAggregation
 ||atdmt.com^$third-party
 ||fbcdn.net^*/flyers/$domain=facebook.com
