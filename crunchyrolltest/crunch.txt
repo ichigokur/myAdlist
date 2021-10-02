@@ -12,8 +12,8 @@
 # Crunchyroll list
 # ------------------------------------[FILTERS]-------------------------------------
 
-ssl.google-analytics.com
-www.google-analytics.com
-i.cdn.turner.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 i.cdn.turner.com
 
 ||static.crunchyroll.com/vilos-v2/web/vilos/player.html
