@@ -1,1 +1,19 @@
 
+# ------------------------------------[crunchyroll]--------------------------------------
+# Title: The Block List Project - Crunchyroll List
+# Expires: ND
+# Homepage: https://github.com/ichigokur/myAdlist/crunchyroll
+# # Total number of network filters: 4
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+#  - reporting false positives
+# -------------------------------------[INFO]---------------------------------------
+#
+# Crunchyroll list
+# ------------------------------------[FILTERS]-------------------------------------
+
+ssl.google-analytics.com
+www.google-analytics.com
+i.cdn.turner.com
+
+||static.crunchyroll.com/vilos-v2/web/vilos/player.html
