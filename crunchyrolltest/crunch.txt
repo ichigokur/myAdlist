@@ -15,5 +15,6 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 i.cdn.turner.com
+0.0.0.0 panini.it
 
 ||static.crunchyroll.com/vilos-v2/web/vilos/player.html
