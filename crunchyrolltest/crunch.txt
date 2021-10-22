@@ -13,7 +13,7 @@
 # ------------------------------------[FILTERS]-------------------------------------
 
 ssl.google-analytics.com
-www.google-analytics.com
+google-analytics.com
 i.cdn.turner.com
 eec.crunchyroll.com
 
